@@ -1,0 +1,11 @@
+• What is a gitignore file and what should it include for a Java project?
+	It should include the file extensions that should not be covered in the source control, especially others' .project file.
+
+• What does fast-forward in Git mean?
+	When merging or rebasing 2 branches, the process that only needs to move the head pointer forward is called fast-ward.
+
+• Why should you have different branches?
+	Because of multi-tasking and efficiency. With multiple branches, team members can work on the same project seperately without affecting others. Also, assigning different User stories and tasks branches makes a project more organizable and trackable.
+
+• In a project how many remote Git repositories do you usually have?
+	Usually, only one repository is needed for a project, but the number of branches may vary based on the number of requirements of a project.
