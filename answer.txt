@@ -1,5 +1,5 @@
-• What is a gitignore file and what should it include for a Java project?
-	It should include the file extensions that should not be covered in the source control, especially others' .project file.
+• What is a gitignore and what should it include for a Java project?
+	A gitignore file tells the Git what kind of files should be ignored when committing to the repo. It should include the file extensions that should not be covered in the source control, especially others' .project file.
 
 • What does fast-forward in Git mean?
 	When merging or rebasing 2 branches, the process that only needs to move the head pointer forward is called fast-ward.
